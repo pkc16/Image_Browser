@@ -1,4 +1,10 @@
 # Image_Browser
-Python 3 image browser
+This is a simple Python 3 application which browses images in a given directory location.
 
-Uses tkinter and PIL libraries.
+#### Libraries used
+- tkinter
+- PIL
+
+
+## Author
+Peter Chung
