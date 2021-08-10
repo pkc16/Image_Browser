@@ -7,7 +7,7 @@ Image file types which are applicable are:
 - gif
 - tif
 
-#### Libraries used
+#### External Libraries used
 - tkinter
 - PIL
 
